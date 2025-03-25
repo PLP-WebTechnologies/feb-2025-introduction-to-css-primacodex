@@ -1,0 +1,30 @@
+#main-header {
+  text-align: center;
+  padding: 20px;
+  font-family: "Arial", sans-serif;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.important-notice {
+  text-align: justify;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: green;
+  font-weight: bold;
+  margin: 20px 0;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  margin: 10px;
+  border: 4px solid crimson;
+  border-radius: 10px;
+}
+
+#content-section p {
+  line-height: 1.6;
+  font-size: 20px;
+  text-align: center;
+}
